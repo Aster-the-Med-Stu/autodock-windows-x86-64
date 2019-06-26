@@ -2,3 +2,5 @@ This is built using MinGW-W64 under Cygwin.
 
 GCC Version: 5.4.0
 Mingw-w64 Version: 5.0.2
+
+And please don't forget these DLLs!!!
